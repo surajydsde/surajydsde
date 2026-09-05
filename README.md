@@ -43,16 +43,13 @@
 | --- | --- |
 | [gmail-assistant](https://github.com/surajydsde/gmail-assistant) | AI-powered assistant for Gmail with multi-user login |
 | [nexora-agents](https://github.com/surajydsde/nexora-agents) | AI agent orchestration project |
-| [ai-agent](https://github.com/surajydsde/ai-agent) | ChatGPT-like conversational AI agent |
-| [blog-app](https://github.com/surajydsde/blog-app) | Full-stack blog application with a REST backend |
-| [pardotautomationlibrary](https://github.com/surajydsde/pardotautomationlibrary) | Automation library for Pardot workflows |
+| [ai-agent](https://github.com/surajydsde/ai-agent) | ChatGPT-like conversational AI agent 
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajydsde&show_icons=true&theme=default" alt="Suraj's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajydsde" alt="Suraj's GitHub streak" height="165"/>
 </p>
 
