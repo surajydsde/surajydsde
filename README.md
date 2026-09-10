@@ -17,7 +17,7 @@
 - 🤖 AI tooling: **AI Agents**, **LangGraph**, **RAG**, **GitHub Copilot**, **Claude**, **ChatGPT**
 - 🎨 Styling: **Tailwind CSS**, **Bootstrap**, **SASS**
 - 📫 Reach me: **surajyadav.sde@gmail.com**
-- 🌍 Portfolio: **[surajyadav.dev](https://surajyadav.dev)** _(update once deployed)_
+- 🌍 Portfolio: **[surajyadav.app](https://suraj-yadav-chi.vercel.app)**
 
 ---
 
